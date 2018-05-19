@@ -1,0 +1,8 @@
+.clearfloat:after{display:block;clear:both;content:"";visibility:hidden;height:0}
+.clearfloat{zoom:1}
+p{
+    margin:0;
+    padding:0;
+}
+ul li,dt dd,ol li{list-style: none;}
+a{text-decoration:none;}
